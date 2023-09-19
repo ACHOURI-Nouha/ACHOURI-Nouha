@@ -4,7 +4,7 @@ Moi c'est **Nouha ACHOURI**, 31 ans, actuellement perdue au fin fond de la **Ré
 
 Je suis passionnée par le Japon, les jeux vidéos, et l'informatique entre autres. Mon rêve est d'aller fonder ma propre boîte de développeurs au pays du Soleil Levant.
 
-## Pourquoi O'clock ?
+## Pourquoi vouloir être dév ?
 
 J'ai travaillé dans plusieurs entreprises en tant que chargée de clientèle et au cours de ma carrière, notamment au sein d'une startup, où j'ai eu l'occasion d'être proche de l'équipe de développeurs et de voir à quel point leur travail était essentiel pour le bon fonctionnement de notre petite boîte. 
 
