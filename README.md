@@ -11,8 +11,8 @@ J'ai travaillé dans plusieurs entreprises en tant que chargée de clientèle et
 Ce monde m'a toujours fasciné, et je trouve qu'il est temps de =>
 
 ```sh
-mkdir DeveloppeuseWeb
-mv Nouha DeveloppeuseWeb
+mkdir ConceptriceDeveloppeuseDApplication
+mv Nouha ConceptriceDeveloppeuseDApplication
 ```
 
 ## Mais d'où viens-je :D
